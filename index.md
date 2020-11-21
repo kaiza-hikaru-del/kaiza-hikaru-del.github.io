@@ -67,6 +67,6 @@
 | ![](https://github.com/kaiza-hikaru-del/kaiza-hikaru-del.github.io/raw/main/Pictures/2001.jpg) | **2001年**<br/>中科院计算所研制成功我国第一款通用CPU“龙芯”芯片。 |
 | ![](https://github.com/kaiza-hikaru-del/kaiza-hikaru-del.github.io/raw/main/Pictures/2002.jpg) | **2002年**<br/>曙光公司推出完全自主知识产权的"龙腾"服务器，龙腾服务器采用了“龙芯-1”CPU，采用了曙光公司和中科院计算所联合研发的服务器专用主板，采用曙光LINUX操作系统，该服务器是国内第一台完全实现自有产权的产品，在国防、安全等部门将发挥重大作用。 |
 | ![](https://github.com/kaiza-hikaru-del/kaiza-hikaru-del.github.io/raw/main/Pictures/2003.jpg) | **2003年**<br/>百万亿次数据处理超级服务器曙光4000L通过国家验收，再一次刷新国产超级服务器的历史纪录，使得国产高性能产业再上新台阶。 |
-| <img src="https://github.com/kaiza-hikaru-del/kaiza-hikaru-del.github.io/raw/main/Pictures/2004.jpg" style="zoom:150%;" /> | **2004年**<br/> 在国务院常务会议上，《中华人民共和国电子签名法（草案）》获得原则通过，这标志著我国电子业务渐入法制轨道。 |
+| <img src="https://github.com/kaiza-hikaru-del/kaiza-hikaru-del.github.io/raw/main/Pictures/2004.jpg"  /> | **2004年**<br/> 在国务院常务会议上，《中华人民共和国电子签名法（草案）》获得原则通过，这标志著我国电子业务渐入法制轨道。 |
 | ![](https://github.com/kaiza-hikaru-del/kaiza-hikaru-del.github.io/raw/main/Pictures/2005.jpg) | **2005年**<br/>“龙芯二号”正式亮相。由中国科学研究院计算技术研究所研制的中国首个拥有自主知识产权的通用高性能CPU“龙芯二号”正式亮相。 |
 
